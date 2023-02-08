@@ -3,3 +3,5 @@ Movie Recommendation System using ML - Training phase
 
 
 pip freeze > requirements.txt
+
+pip install -r requirements.txt
